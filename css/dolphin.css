@@ -26,3 +26,9 @@ html {
     top: 100px;
   }
 }
+
+@media only screen and (max-width: 642px) {
+  #dolphin {
+    transform:rotate(-.25turn);
+  }
+}
